@@ -2,6 +2,7 @@
 
 ### See CHANGEME lines and adjust as needed ###
 
+source ~/.bashrc
 ignoredisk --only-use=sda
 zerombr
 clearpart --all --initlabel --drives=sda
